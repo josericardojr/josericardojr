@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a professor and researcher at Instituto Federal do Rio de Janeiro. My main topics research are computer graphics, videogame dynamic balancing and physics simulation.
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCLGLvUPev-_Xx6jcBqhuDYg?view_as=subscriber)](https://www.youtube.com/channel/UCLGLvUPev-_Xx6jcBqhuDYg?view_as=subscriber)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jricardojunior)](https://twitter.com/jricardojunior)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jricardojunior/)](https://www.linkedin.com/in/jricardojunior/)
+
 <!--
 **josericardojr/josericardojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
